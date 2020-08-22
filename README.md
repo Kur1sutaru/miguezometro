@@ -7,9 +7,10 @@ Você ja se deparou com as seguinte situações?
 Então veio ao lugar certo!
 
 Nosso plano é mapear a presença de dados pseudoabertos na literatura.
+Também gostaríamos de indicar quando um artigo é "open science friendly" e quando ele não é tanto assim...
 
 ## Onde estamos agora?
-Decidindo como implementar e o que vai ser o Miguezômetro.
+Já temos muitas coisas para contar! Visitem a nossa Wiki :) 
 
 ## De onde surgiu o Miguezômetro?
-O projeto surgiu durante a No-budget Science Hack Week 2020 (que na verdade foi uma quinzena e não uma semana).
+O projeto surgiu durante a No Budget Science Hack Week 2020 (que na verdade foi uma quinzena e não uma semana).
